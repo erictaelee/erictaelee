@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💬 English is my second language, Ruby is my first. 
+- 🌱 I'm currently doing a 100 days of code challenge with Ruby, Javascript, SQL, and Vue.js.
+
+
 <!--
 **erictaelee/erictaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
