@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 - 💬 English is my second language, Ruby is my first. 
-- 🌱 I'm currently doing a 100 days of code challenge with Ruby, Javascript, SQL, and Vue.js.
+- 🌱 I'm currently doing a 100 days of code challenge with Ruby, Javascript, and Vue.js.
+- Goals for this month
+1. Finish my personal website.
+2. Earn JavaScript LinkedIn Assessment Badge.
+3. Get more comfortable with Whiteboarding.
 
 
 
