@@ -2,16 +2,16 @@
 
 - 💬 English is my second language, Ruby is my first. 
 - 🌱 I'm currently doing a 100 days of code challenge with Ruby, Javascript, and Vue.js.
+
+Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type
+https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2896s
+
 - My Outcome Goals: Get efficient with variables, conditions, loops and data structures. 
 - My Process Goals: Solve at least one Ruby/JavaScript problem a day.
 
 - Goal for the month (May):
 1. Finish my personal website.
 2. Earn JavaScript LinkedIn Assessment Badge.
-
-
-
-
 
 
 
