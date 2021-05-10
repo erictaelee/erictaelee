@@ -4,11 +4,11 @@
 - I'm currently doing a 100 days of code challenge with Ruby, Javascript, and Vue.js.
 
 Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type
-https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2896s
+https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
  
 
 - Goals for the month (May):
-1. Finish my personal website.
+1. Finish my personal website. https://erictaelee.github.io/
 2. Earn JavaScript LinkedIn Assessment Badge.
 3. Get efficient with variables, conditions, loops and data structures. 
   -Process goals: Solve at least one Ruby/JavaScript problem a day.
