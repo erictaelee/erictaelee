@@ -9,8 +9,9 @@ https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
 
 - Goals for the month (May):
 1. Finish my personal website. https://erictaelee.github.io/
-2. Earn JavaScript LinkedIn Assessment Badge.
-3. Get efficient with variables, conditions, loops and data structures. 
+2. Deploy my captsone project.
+3. Earn JavaScript LinkedIn Assessment Badge.
+4. Get efficient with variables, conditions, loops and data structures. 
   -Process goals: Solve at least one Ruby/JavaScript problem a day.
 
 
