@@ -5,6 +5,9 @@
 
 Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type
 https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
+
+Check out my guitar cover of Steve Vai's Tender Surrender
+https://www.instagram.com/p/B_bYq6jFOP3/
  
 
 - Goals for the month (May):
