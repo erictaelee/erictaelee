@@ -8,10 +8,11 @@ https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
  
 
 - Goals for the month (May):
-1. Finish my personal website. https://erictaelee.github.io/
+1. F̶i̶n̶i̶s̶h̶ ̶m̶y̶ ̶p̶e̶r̶s̶o̶n̶a̶l̶ ̶w̶e̶b̶s̶i̶t̶e̶.̶ https://erictaelee.github.io/
 2. Deploy my captsone project.
 3. Earn JavaScript LinkedIn Assessment Badge.
-4. Get efficient with variables, conditions, loops and data structures. 
+4. E̶a̶r̶n̶ ̶G̶i̶t̶ ̶L̶i̶n̶k̶e̶d̶I̶n̶ ̶A̶s̶s̶e̶s̶s̶m̶e̶n̶t̶ ̶B̶a̶d̶g̶e̶.̶
+5. Get efficient with variables, conditions, loops and data structures. 
   -Process goals: Solve at least one Ruby/JavaScript problem a day.
 
 
