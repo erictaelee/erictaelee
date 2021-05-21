@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 English is my second language, Ruby is my first. 
 
-- 📃 I'm currently doing a 100 days of code challenge with Ruby, Javascript, and Vue.js.(7/22/21 will be my last commit)
+- 📃 I'm currently doing a 100 days of code challenge. (7/22/21 will be my last commit)
 
 - ⚡ Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type
 https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
