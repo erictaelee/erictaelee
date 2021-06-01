@@ -10,12 +10,18 @@ https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
 https://www.instagram.com/p/B_bYq6jFOP3/
  
 
+- 🧐 Goals for the month (June):
+1. Continue to solve at least one Ruby/JavaScript problem a day.
+2. Update my personal website.
+3. Build a small-medium app.
+4. Build a game.
+
 - 🧐 Goals for the month (May):
-1. Update my personal website. https://erictaelee.github.io/ 
+1. Update my personal website. https://erictaelee.github.io/ ✅
 2. Deploy my captsone project. (In progress, having issues with seeding the data)
 3. E̶a̶r̶n̶ ̶J̶a̶v̶a̶S̶c̶r̶i̶p̶t̶ ̶L̶i̶n̶k̶e̶d̶I̶n̶ ̶A̶s̶s̶e̶s̶s̶m̶e̶n̶t̶ ̶B̶a̶d̶g̶e̶.̶ ✅
 4. E̶a̶r̶n̶ ̶G̶i̶t̶ ̶L̶i̶n̶k̶e̶d̶I̶n̶ ̶A̶s̶s̶e̶s̶s̶m̶e̶n̶t̶ ̶B̶a̶d̶g̶e̶.̶ ✅
-5. Get efficient with variables, conditions, loops and data structure; Solve at least one Ruby/JavaScript problem a day.
+5. G̶e̶t̶ ̶e̶f̶f̶i̶c̶i̶e̶n̶t̶ ̶w̶i̶t̶h̶ ̶v̶a̶r̶i̶a̶b̶l̶e̶s̶,̶ ̶c̶o̶n̶d̶i̶t̶i̶o̶n̶s̶,̶ ̶l̶o̶o̶p̶s̶ ̶a̶n̶d̶ ̶d̶a̶t̶a̶ ̶s̶t̶r̶u̶c̶t̶u̶r̶e̶;̶ ̶S̶o̶l̶v̶e̶ ̶a̶t̶ ̶l̶e̶a̶s̶t̶ ̶o̶n̶e̶ ̶R̶u̶b̶y̶/̶J̶a̶v̶a̶S̶c̶r̶i̶p̶t̶ ̶p̶r̶o̶b̶l̶e̶m̶ ̶a̶ ̶d̶a̶y̶.̶ ✅
 
 
 
