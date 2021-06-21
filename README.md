@@ -10,13 +10,6 @@ https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
 https://www.instagram.com/p/B_bYq6jFOP3/
  
 
-- 🧐 Goals for the month (June):
-1. Continue to solve at least one Ruby/JavaScript problem a day.
-2. Update my personal website.https://erictaelee.github.io
-3. Build a small-medium app.
-4. Build a game.
-
-
 <!--
 **erictaelee/erictaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
