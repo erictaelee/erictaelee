@@ -2,7 +2,7 @@
 
 English is my second language, Ruby is my first. 
 
-I got my first coding job as a junior software engineer! My first day is 6/28/21 and I want to take a break from exploring different languages and focus on Ruby since that is what the company uses.  
+I got my first coding job as a junior software engineer! My first day is 6/28/21 and I will be taking a break from exploring different languages and focus on Ruby since that is what the company uses.  
 
 - 📃 I'm currently doing a 100 days of code challenge. (7/12/21 will be my last commit)
 
