@@ -2,7 +2,6 @@
 
 English is my second language, Ruby is my first. 
 
-I got my first coding job as a junior software engineer! My first day is 6/28/21 and I will be taking a break from exploring different languages and focus on Ruby since that is what the company uses.  
 
 - ⚡ Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type.
 https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
