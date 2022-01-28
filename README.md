@@ -1,6 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I've began my coding journey in 2021. It sure is a tough one, but worth it. Ruby and Javascript :computer:
+I've began my coding journey in 2021. It sure is a tough one, but worth it. 
+</br>
+</br>
+"The only impossible journey is the one you nver begin."
 
 - ⚡ Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type.
 https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
