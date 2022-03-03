@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I've began my coding journey in 2021. It sure is a tough one, but worth it. 
+I began my coding journey in 2021. It sure is a tough one, but worth it. 
 </br>
 </br>
 *"The only impossible journey is the one you never begin."*
