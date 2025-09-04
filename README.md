@@ -8,11 +8,7 @@ I started my coding journey in 2021. It sure is a tough one, but worth it.
 </br>
 
 - ⚡ Check out my first capstone project presentation. Swole Squad is a fitness app that helps you build muscles tailored to your body type.
-https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s
-
-- 🎸 Check out my guitar cover of Steve Vai's Tender Surrender.
-https://www.instagram.com/p/B_bYq6jFOP3/
- 
+https://www.youtube.com/watch?v=_1E9Irqnm9k&t=2227s 
 
 <!--
 **erictaelee/erictaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
